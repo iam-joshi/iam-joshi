@@ -22,14 +22,16 @@ Hi Viewers👋👋,
 
 - 📫 How to reach me **joinforjoshi@gmail.com**
 
-- 💬 Know about me in **https://www.linkedin.com/in/hemant-kumar-joshi2535/**
-
 - 💬 Ask me about **Web Development,Devops,Cloud**  
  
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/JoinForJoshi" target="blank"><img src="https://img.shields.io/twitter/follow/JoinForJoshi?logo=twitter&style=for-the-badge" alt="JoinForJoshi" /></a> </p>
-<p align="left"> <a href="https://github.com/hemantjoshi2535" target="blank"><img src="https://img.shields.io/github/followers/hemantjoshi2535?style=social" alt="hemantjoshi2535" /></a> </p>
-<p align="left"> <a href="https://www.twitch.tv/hemantjoshi2535" target="blank"><img src="https://img.shields.io/twitch/status/hemantjoshi2535?style=social" alt="hemantjoshi2535" /></a> </p>
+<a href="https://www.linkedin.com/in/hemant-kumar-joshi2535/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-png-transparent-background--27.png" width="50" alt="linkedin logo png transparent background " /></a>
+<a href="https://twitter.com/JoinForJoshi" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-symbols-logo-png-clipart-16.png" width="50" alt="twitter symbols logo png clipart" /></a>
+<a href="https://discord.gg/fnKWPxG4fB" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/playerunknown-battlegrounds-bgparty-15.png" width="150" alt="playerunknown battlegrounds bgparty" /></a>
+<a href="https://www.twitch.tv/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/twitch-logo-png-hd-12.png" width="90" alt="twitch logo png hd" /></a>
+<a href="https://github.com/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-github-logo-24.png" width="70" alt="512x512 transparent logo, github logo" /></a>
+<a href="mailto:joinforjoshi@gmail.com" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-salle-health-sciences-institute-web-mail-advisory-8.png" width="70" alt="logo gmail png salle health sciences institute web mail advisory" /></a>
+
 
 
 
