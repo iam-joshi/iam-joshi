@@ -23,13 +23,10 @@ Hi Viewers👋👋,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/JoinForJoshi" target="blank"><img src="https://img.shields.io/twitter/follow/JoinForJoshi?logo=twitter&style=for-the-badge" alt="JoinForJoshi" /></a> </p>
-<p align="left"> <a href="https://github.com/hemantjoshi2535" target="blank"><img src="https://img.shields.io/github/follow/hemantjoshi2535?logo=github&style=for-the-badge" alt="hemantjoshi2535" /></a> </p>
+<p align="left"> <a href="https://github.com/hemantjoshi2535" target="blank"><img src="https://img.shields.io/github/followers/hemantjoshi2535?style=social" alt="hemantjoshi2535" /></a> </p>
+<p align="left"> <a href="https://www.twitch.tv/hemantjoshi2535" target="blank"><img src="https://img.shields.io/twitch/status/hemantjoshi2535?style=social" alt="hemantjoshi2535" /></a> </p>
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/hemant-kumar-joshi2535/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant-kumar-joshi2535" height="30" width="40" /></a>
-<a href="https://fb.com/rishabh pratap singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishabh pratap singh" height="30" width="40" /></a>
-<a href="https://instagram.com/__iamrps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__iamrps" height="30" width="40" /></a>
-</p>
 
 
 ### hemantjoshi2535 👋
