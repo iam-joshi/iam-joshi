@@ -4,7 +4,7 @@ Hi Viewers👋👋,
 <h1 align="center">Hi 👋, I'm Hemant Kumar Joshi</h1>
 <h3 align="center">A passionate developer & enthusiast from India.🇮🇳</h3>
 
-<img align="center" alt="Coding" width="980" height="450" src="https://joinwithjoshi.w3spaces.com/Photos/vlcsnap-2023-04-23-23h38m18s409.png">
+<img align="center" alt="Coding" width="980" height="380" src="https://joinwithjoshi.w3spaces.com/Photos/vlcsnap-2023-04-23-23h38m18s409.png">
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 ### hemantjoshi2535 👋
