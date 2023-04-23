@@ -31,8 +31,10 @@ Hi Viewers👋👋,
 <a href="https://www.twitch.tv/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/twitch-logo-png-hd-12.png" width="90" alt="twitch logo png hd" /></a>
 <a href="https://github.com/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-github-logo-24.png" width="70" alt="512x512 transparent logo, github logo" /></a>
 <a href="mailto:joinforjoshi@gmail.com" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-salle-health-sciences-institute-web-mail-advisory-8.png" width="70" alt="logo gmail png salle health sciences institute web mail advisory" /></a>
-
-
+<a href="https://www.reddit.com/user/HemantJoshi2535/" title="Image from freepnglogos.com"><img src="https://user-images.githubusercontent.com/100144307/233860606-0e28458b-7ad7-42e9-b1a8-1dd5c1184dbe.png" width="60" alt="logo gmail png salle health sciences institute web mail advisory" /></a>
+<a href="https://www.facebook.com/profile.php?id=100014699208348" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/like-us-on-facebook-png-logo/like-us-on-facebook-transparent-png-logo-12.png" width="60" alt="like us on facebook transparent png logo" /></a>
+<a href="https://wa.me/916394196203" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png" width="60" alt="whatsapp png image" /></a>
+<a href="https://www.instagram.com/hemantjoshi2535/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-png-icons-logo-png-images-for-download-15.png" width="70" alt="logo ig, instagram png icons logo png images for download" /></a>
 
 
 
