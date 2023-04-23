@@ -43,9 +43,10 @@ Hi Viewers👋👋,
 <h1 align="center">Hi there 👋, I'm Hemant Kumar Joshi 😎🤠</h1>
 <h3 align="center">A passionate developer & enthusiast from India.🇮🇳</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantjoshi2535" alt="hemantjoshi2535" /></a> </p> 
-<p align="left"> <img src="![Untitled design (1)](https://user-images.githubusercontent.com/96458739/193415097-51f6116f-8f8e-43a8-ab8a-ad40019eda8b.gif" /> </p> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantjoshi2535" alt="hemantjoshi2535" /></a> </p> 
+ 
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/96458739/193415097-51f6116f-8f8e-43a8-ab8a-ad40019eda8b.gif">
 
                             
 
