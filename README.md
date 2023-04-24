@@ -70,12 +70,16 @@ Hi Viewers👋👋,
 <a href="https://www.w3schools.com/html/" title="Image from freepnglogos.com"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="75" alt="html5 logo, image logo html" /></a> 
 <a href="https://www.w3schools.com/css/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" width="70" alt="html5 logo, css logo png transparent svg vector bie supply" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" width="50" alt="JS logo png" /></a>
-<a href="https://www.linux.org/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" width="50" alt="difference between linux and window operating system" /></a>
+<a href="https://www.linux.org/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" width="70" alt="difference between linux and window operating system" /></a>
 <a href="https://www.mysql.com/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="50" alt="logo mysql, mysql logo png images are download crazypng" /></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/gltER5OeK9wAAAAi/qws.gif" alt="Qws Sticker - Qws Stickers" width="50" height="45"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img class="TutorialCard_cardIcon__2Eygb" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> </a> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" width="60" height="50"/> </a> 
+<a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="go" width="60" height="50"/> </a> 
+<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg" alt="go" width="60" height="50"/> </a> 
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://ubuntu.com/wp-content/uploads/ff30/logo_thumbnailYT.png" alt="go" width="90" height="50"/> </a> 
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantjoshi2535&show_icons=true&locale=en&layout=compact" alt="hemantjoshi2535" /></p>
 
