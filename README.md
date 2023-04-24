@@ -12,8 +12,6 @@ Hi Viewers👋👋,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantjoshi2535&label=Profile%20views&color=0e75b6&style=flat" alt="hemantjoshi" /> </p>
 
 
-
-
 - 🌱 I’m currently learning ****
 
 - 🌱 I’m currently exploring **Web devlopment**
@@ -35,8 +33,8 @@ Hi Viewers👋👋,
 <a href="https://www.facebook.com/profile.php?id=100014699208348" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/like-us-on-facebook-png-logo/like-us-on-facebook-transparent-png-logo-12.png" width="60" alt="like us on facebook transparent png logo" /></a>
 <a href="https://wa.me/916394196203" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png" width="60" alt="whatsapp png image" /></a>
 <a href="https://www.instagram.com/hemantjoshi2535/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-png-icons-logo-png-images-for-download-15.png" width="70" alt="logo ig, instagram png icons logo png images for download" /></a>
-
-
+<a href="https://t.me/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/telegram-logo-7.png" width="60" alt="telegram logo" /></a>
+<a href="https://www.snapchat.com/add/hemantjoshi8182" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/snapchat-logo-circle-png-4.png" width="60" alt="snapchat logo circle png" /></a>
 
 
 
@@ -65,8 +63,19 @@ Hi Viewers👋👋,
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
+<p align="left"> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <a href="https://www.java.com" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/coffee-logo-png/coffee-logo-design-creative-idea-logo-elements-2.png" width="110" alt="coffee logo design creative idea logo elements" /></a>
+<a href="https://www.w3schools.com/html/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png" width="120" alt="html5 logo, image logo html" /></a> 
+<a href="https://www.w3schools.com/css/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" width="70" alt="html5 logo, css logo png transparent svg vector bie supply" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" width="50" alt="JS logo png" /></a>
+<a href="https://www.linux.org/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" width="50" alt="difference between linux and window operating system" /></a>
+<a href="https://www.mysql.com/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="50" alt="logo mysql, mysql logo png images are download crazypng" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img class="TutorialCard_cardIcon__2Eygb" src="https://www.w3schools.com/tutorial-logos/cpp.svg" alt="C++" width="40" height="40"/> </a> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantjoshi2535&show_icons=true&locale=en&layout=compact" alt="hemantjoshi2535" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantjoshi2535&show_icons=true&locale=en" alt="hemantjoshi2535" /></p>
