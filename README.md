@@ -64,8 +64,8 @@ Hi Viewers👋👋,
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="70"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="70"/> </a> 
  <a href="https://www.java.com" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/coffee-logo-png/coffee-logo-design-creative-idea-logo-elements-2.png" width="110" alt="coffee logo design creative idea logo elements" /></a>
 <a href="https://www.w3schools.com/html/" title="Image from freepnglogos.com"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="75" alt="html5 logo, image logo html" /></a> 
 <a href="https://www.w3schools.com/css/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" width="70" alt="html5 logo, css logo png transparent svg vector bie supply" /></a>
