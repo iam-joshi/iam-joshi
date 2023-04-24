@@ -1,3 +1,5 @@
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/PlkYffUSFZxxlQl9so" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PlkYffUSFZxxlQl9so">via GIPHY</a></p>
+
 Hi Viewers👋👋, 
 [](https://media.licdn.com/dms/image/D4D16AQG3OFj9Xtpy9w/profile-displaybackgroundimage-shrink_350_1400/0/1679863104465?e=1687392000&v=beta&t=eqf_BwSUd1iQOWK-F-oLaWs1AsnPjwXsPKR3ZMXfzlE)
 
