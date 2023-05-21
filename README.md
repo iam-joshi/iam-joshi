@@ -25,16 +25,17 @@
 
 - 💬 Ask me about **Web Development,Devops,Cloud**  
  
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/hemant-kumar-joshi2535/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-logo-png-transparent-background--27.png" width="50" alt="linkedin logo png transparent background " /></a>
-<a href="https://twitter.com/JoinForJoshi" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-symbols-logo-png-clipart-16.png" width="50" alt="twitter symbols logo png clipart" /></a>
-<a href="https://discord.gg/fnKWPxG4fB" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/playerunknown-battlegrounds-bgparty-15.png" width="150" alt="playerunknown battlegrounds bgparty" /></a>
+<h3 align="left">Connect with me: </h3>
+<a href="https://www.linkedin.com/in/hemant-kumar-joshi2535/" title="Image from freepnglogos.com"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="60" alt="linkedin logo png transparent background " /></a>
+<a href="https://twitter.com/JoinForJoshi" title="Image from freepnglogos.com"><img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" width="60" alt="twitter symbols logo png clipart" /></a>
+<a href="https://discord.gg/fnKWPxG4fB" title="Image from freepnglogos.com"><img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="60" alt="playerunknown battlegrounds bgparty" /></a>
 <a href="https://www.twitch.tv/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/twitch-logo-png-hd-12.png" width="90" alt="twitch logo png hd" /></a>
 <a href="https://github.com/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70" alt="512x512 transparent logo, github logo" /></a>
 <a href="mailto:joinforjoshi@gmail.com" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-salle-health-sciences-institute-web-mail-advisory-8.png" width="70" alt="logo gmail png salle health sciences institute web mail advisory" /></a>
 <a href="https://www.reddit.com/user/HemantJoshi2535/" title="Image from freepnglogos.com"><img src="https://user-images.githubusercontent.com/100144307/233860606-0e28458b-7ad7-42e9-b1a8-1dd5c1184dbe.png" width="60" alt="logo gmail png salle health sciences institute web mail advisory" /></a>
 <a href="https://www.facebook.com/profile.php?id=100014699208348" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/like-us-on-facebook-png-logo/like-us-on-facebook-transparent-png-logo-12.png" width="60" alt="like us on facebook transparent png logo" /></a>
-<a href="https://wa.me/916394196203" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/whatsapp-png-image-9.png" width="60" alt="whatsapp png image" /></a>
+<a href="https://www.facebook.com/profile.php?id=100014699208348" title="Image from freepnglogos.com"><img src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif" width="60" alt="like us on facebook transparent png logo" /></a>
+<a href="https://wa.me/916394196203" title="Image from freepnglogos.com"><img src="https://cliply.co/wp-content/uploads/2021/08/372108180_WHATSAPP_ICON_400.gif" width="60" alt="whatsapp png image" /></a>
 <a href="https://www.instagram.com/hemantjoshi2535/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-png-icons-logo-png-images-for-download-15.png" width="70" alt="logo ig, instagram png icons logo png images for download" /></a>
 <a href="https://t.me/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/telegram-logo-7.png" width="60" alt="telegram logo" /></a>
 <a href="https://www.snapchat.com/add/hemantjoshi8182" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/snapchat-logo-circle-png-4.png" width="60" alt="snapchat logo circle png" /></a>
@@ -98,7 +99,7 @@ I'm a night 🦉
 <a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="go" width="60" height="50"/> </a> 
 <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg" alt="go" width="60" height="50"/> </a> 
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://ubuntu.com/wp-content/uploads/ff30/logo_thumbnailYT.png" alt="go" width="90" height="50"/> </a>
-<a href="mailto:joinforjoshi@gmail.com" title="Image from freepnglogos.com"><img src="https://blog.hubspot.com/hubfs/26%20Animated%20Logos%20to%20Inspire%20Your%20Own-11.gif" width="80" height="50" alt="Google logo png transparent background " /></a>
+<a href="mailto:joinforjoshi@gmail.com" title="Image from freepnglogos.com"><img src="https://blog.hubspot.com/hubfs/26%20Animated%20Logos%20to%20Inspire%20Your%20Own-11.gif" width="90" height="50" alt="Google logo png transparent background " /></a>
 ..............------------------...............
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Image from freepnglogos.com"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JS logo png" /></a>
