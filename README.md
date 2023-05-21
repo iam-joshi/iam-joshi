@@ -39,7 +39,7 @@
 <a href="https://wa.me/916394196203" title="Image from freepnglogos.com"><img src="https://cliply.co/wp-content/uploads/2021/08/372108180_WHATSAPP_ICON_400.gif" width="60" alt="whatsapp png image" /></a>
 <a href="https://www.instagram.com/hemantjoshi2535/" title="Image from freepnglogos.com"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjliOTE4ZGZiYmMzZWU1MGQxZDcyNzVmYzU5M2JjYTljN2Y2YmEwZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/hoJ15occAjCDRRolmj/giphy.gif" width="55" alt="logo ig" /></a>
 <a href="https://t.me/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/telegram-logo-7.png" width="60" alt="telegram logo" /></a>
-<a href="https://www.snapchat.com/add/hemantjoshi8182" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/snapchat-logo-circle-png-4.png" width="60" alt="snapchat logo circle png" /></a></div>
+<a href="https://www.snapchat.com/add/hemantjoshi8182" title="Image from freepnglogos.com"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdiNjkyZTY4NjUwZDA1NWQ2MjcwMjg3Y2M1MmNmNzQ5ODMzOWZjMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/a5NvfJZfXneD9qJrup/giphy.gif" width="60" alt="snapchat logo circle png" /></a></div>
  </div>
 
 I'm a night 🦉
