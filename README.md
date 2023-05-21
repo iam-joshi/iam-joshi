@@ -104,7 +104,7 @@ I'm a night 🦉
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://ubuntu.com/wp-content/uploads/ff30/logo_thumbnailYT.png" alt="go" width="90" height="50"/> </a>
 <a href="mailto:joinforjoshi@gmail.com" title="Image from freepnglogos.com"><img src="https://blog.hubspot.com/hubfs/26%20Animated%20Logos%20to%20Inspire%20Your%20Own-11.gif" width="90" height="50" alt="Google logo png transparent background " /></a>
 ..............------------------...............
-
+<a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/43e4fa2cc881110814fc0261b0cdeb7232e630e0914361f92936b2df3e2a377f/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d71587647426e7652684c4d2f586433576f344e425759492f41414141414141415137342f305a794d596a47307530774953646a5f524b5679595731612d786b356e366d4667434e63424741735948512f73313630302f6b616c692d707265766965772d626f6f742e676966" alt="go" width="90" height="70"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Image from freepnglogos.com"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JS logo png" /></a>
 <a href="https://www.python.org" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60" alt="512x512 transparent logo, github logo" /></a>
 <a href="https://react.dev" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60" alt="512x512 transparent logo, github logo" /></a>
