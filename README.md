@@ -108,6 +108,7 @@ I'm a night 🦉
 <a href="https://nodejs.org" title="Image from freepnglogos.com"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="60" alt="512x512 transparent logo, github logo" /></a>
 <a href="https://github.com/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60" alt="512x512 transparent logo, github logo" /></a>
 <a href="https://code.visualstudio.com" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" alt="512x512 transparent logo, github logo" /></a>
+    <a href="https://code.visualstudio.com" title="Image from freepnglogos.com"><img src="https://blog.hubspot.com/hs-fs/hubfs/26%20Animated%20Logos%20to%20Inspire%20Your%20Own-21.gif?width=899&name=26%20Animated%20Logos%20to%20Inspire%20Your%20Own-21.gif" width="80" height="50" alt="512x512 transparent logo, github logo" /></a>
 
 ..............------------------...............
 
