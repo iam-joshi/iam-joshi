@@ -82,7 +82,8 @@ I'm a night 🦉
 - **Coding can “power up” your brain. .....**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> <a href="https://cdn.dribbble.com/users/954572/screenshots/17357871/media/af709d784f14cb4cff42471e1afadd23.gif" title="Image from freepnglogos.com"><img src="https://user-images.githubusercontent.com/70204047/129378227-9fe9017a-98d6-4270-bec3-8a0310fc6c4b.gif" width="50" alt="like us on facebook transparent png logo" /></a>  Languages and Tools: </h3>
+
 <p align="left"> 
 <div align="center">
    <div style="display: flex; align-items: flex-start;">
