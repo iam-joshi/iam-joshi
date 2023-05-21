@@ -24,7 +24,8 @@
 - 🕸️ How to reach me **https://joinwithjoshi.w3spaces.com**
 
 - 💬 Ask me about **Web Development,Devops,Cloud**  
-
+<div align="center">
+   <div style="display: flex; align-items: flex-start;">
 <h3 align="left"> <a href="https://cdn.dribbble.com/users/954572/screenshots/17357871/media/af709d784f14cb4cff42471e1afadd23.gif" title="Image from freepnglogos.com"><img src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif" width="60" alt="like us on facebook transparent png logo" /></a>  Connect with me: </h3>
 
 <a href="https://www.linkedin.com/in/hemant-kumar-joshi2535/" title="Image from freepnglogos.com"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="60" alt="linkedin logo png transparent background " /></a>
@@ -38,7 +39,8 @@
 <a href="https://wa.me/916394196203" title="Image from freepnglogos.com"><img src="https://cliply.co/wp-content/uploads/2021/08/372108180_WHATSAPP_ICON_400.gif" width="60" alt="whatsapp png image" /></a>
 <a href="https://www.instagram.com/hemantjoshi2535/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-png-icons-logo-png-images-for-download-15.png" width="70" alt="logo ig, instagram png icons logo png images for download" /></a>
 <a href="https://t.me/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/telegram-logo-7.png" width="60" alt="telegram logo" /></a>
-<a href="https://www.snapchat.com/add/hemantjoshi8182" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/snapchat-logo-circle-png-4.png" width="60" alt="snapchat logo circle png" /></a>
+<a href="https://www.snapchat.com/add/hemantjoshi8182" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/snapchat-logo-circle-png-4.png" width="60" alt="snapchat logo circle png" /></a></div>
+ </div>
 
 I'm a night 🦉
 
