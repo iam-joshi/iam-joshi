@@ -10,7 +10,7 @@
 
 <h3 align="center">A passionate developer & enthusiast from India.🇮🇳</h3>
 
-<img align="center" alt="Coding" width="900" height="200" src="https://media.giphy.com/media/PlkYffUSFZxxlQl9so/giphy.gif">
+<img align="center" alt="Coding" width="900" height="207" src="https://media.giphy.com/media/PlkYffUSFZxxlQl9so/giphy.gif">
 <img align="right" alt="hemantjoshi078f8e7afd344567a50456680de56b39" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 ### hemantjoshi2535 👋
