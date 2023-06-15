@@ -3,9 +3,13 @@
 [](https://media.licdn.com/dms/image/D4D16AQG3OFj9Xtpy9w/profile-displaybackgroundimage-shrink_350_1400/0/1679863104465?e=1687392000&v=beta&t=eqf_BwSUd1iQOWK-F-oLaWs1AsnPjwXsPKR3ZMXfzlE)
 
 <h1 align="center">Hi...👋, I'm Hemant Kumar Joshi</h1>
+
+![IMG_20230319_160014_069](https://github.com/hemantjoshi2535/hemantjoshi2535/assets/100144307/ae7185c0-8035-4904-a5d4-08f9e063c0cc)
+
+
 <h3 align="center">A passionate developer & enthusiast from India.🇮🇳</h3>
 
-<img align="center" alt="Coding" width="900" height="275" src="https://media.giphy.com/media/PlkYffUSFZxxlQl9so/giphy.gif">
+<img align="center" alt="Coding" width="900" height="200" src="https://media.giphy.com/media/PlkYffUSFZxxlQl9so/giphy.gif">
 <img align="right" alt="hemantjoshi078f8e7afd344567a50456680de56b39" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 ### hemantjoshi2535 👋
@@ -123,3 +127,8 @@ I'm a night 🦉
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantjoshi2535&show_icons=true&locale=en&layout=compact" alt="hemantjoshi2535" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantjoshi2535&show_icons=true&locale=en" alt="hemantjoshi2535" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-rps&show_icons=true&locale=en&layout=compact" alt="iam-rps" /></p> 
+
+
+
