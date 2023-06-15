@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi...👋, I'm Hemant Kumar Joshi</h1>
 
-![IMG_20230319_160014_069](https://github.com/hemantjoshi2535/hemantjoshi2535/assets/100144307/ae7185c0-8035-4904-a5d4-08f9e063c0cc)
+
+![IMG_20230615_161537](https://github.com/hemantjoshi2535/hemantjoshi2535/assets/100144307/0a293053-c324-4cd0-96ab-dbc385ce4acc)
 
 
 <h3 align="center">A passionate developer & enthusiast from India.🇮🇳</h3>
