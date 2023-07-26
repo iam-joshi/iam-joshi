@@ -1,7 +1,5 @@
 <h1 align="center">Hii... Viewers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">,</h1> 
 
-[](https://media.licdn.com/dms/image/D4D16AQG3OFj9Xtpy9w/profile-displaybackgroundimage-shrink_350_1400/0/1679863104465?e=1687392000&v=beta&t=eqf_BwSUd1iQOWK-F-oLaWs1AsnPjwXsPKR3ZMXfzlE)
-
 <h1 align="center">Hi...👋, I'm Hemant Kumar Joshi</h1>
 
 
