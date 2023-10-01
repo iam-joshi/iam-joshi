@@ -26,8 +26,10 @@
 
 - 📫 How to reach me **joinforjoshi@gmail.com**
 
-- 🕸️ How to reach me **https://joinwithjoshi.w3spaces.com**
+- 🕸️ How to reach my Profile **https://joinwithjoshi.w3spaces.com**
 
+- 🔭 How to reach my Projects **https://joinforjoshi.w3spaces.com**
+ 
 - 💬 Ask me about **Web Development,Devops,Cloud**  
 <div align="center">
    <div style="display: flex; align-items: flex-start;">
