@@ -38,7 +38,7 @@
 <a href="https://www.linkedin.com/in/hemant-kumar-joshi2535/" title="Image from freepnglogos.com"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="60" alt="linkedin logo png transparent background " /></a>
 <a href="https://twitter.com/JoinForJoshi" title="Image from freepnglogos.com"><img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" width="60" alt="twitter symbols logo png clipart" /></a>
 <a href="https://discord.gg/fnKWPxG4fB" title="Image from freepnglogos.com"><img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" width="60" alt="playerunknown battlegrounds bgparty" /></a>
-<a href="https://www.twitch.tv/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://i.pinimg.com/originals/27/4e/fc/274efc127536a6b68b352bc6e81d60aa.gif" width="60" height="60" /></a>
+<a href="https://www.twitch.tv/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZiOGhleGxhenZhamp2enY1OGV3dTF4NzU3NzM0YnhlZXF0ZjJ4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aTbq9DUgJLQMQIsBkb/giphy.gif" width="60" height="60" /></a>
 <a href="https://github.com/iam-joshi" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60" height="60" alt="512x512 transparent logo, github logo" /></a>
 <a href="mailto:joinforjoshi@gmail.com" title="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-salle-health-sciences-institute-web-mail-advisory-8.png"><img src="https://media.giphy.com/media/9l8MXyxSEC3O8/giphy.gif" width="70" alt="logo gmail png salle health sciences institute web mail advisory" /></a>
 <a href="https://www.reddit.com/user/HemantJoshi2535/" title="Image from freepnglogos.com"><img src="https://media.giphy.com/media/mDN904TRuZwJhmc4mf/giphy.gif" width="60" alt="logo gmail png salle health sciences institute web mail advisory" /></a>
@@ -96,15 +96,17 @@ I'm a night 🦉
 <div align="center">
    <div style="display: flex; align-items: flex-start;">
 
-<a href="https://www.w3schools.com/html/" title="Image from freepnglogos.com"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="5%" alt="html5 logo, image logo html" /></a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="4%"/> </a> 
-<a href="https://github.com/iam-joshi" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="5%" alt="512x512 transparent logo, github logo" /></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img class="TutorialCard_cardIcon__2Eygb" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="4%"/> </a> 
+<a href="https://www.w3schools.com/html/" title="Image from freepnglogos.com"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="10%" alt="html5 logo, image logo html" /></a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="9%"/> </a> 
+<a href="https://github.com/iam-joshi" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="10%" alt="512x512 transparent logo, github logo" /></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img class="TutorialCard_cardIcon__2Eygb" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="9%"/> </a> 
 
 
 --------------------------------------------------------------------------------------------------------------------
-<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg" alt="go" width="6%"/> </a> 
-<a href="mailto:joinforjoshi@gmail.com" title="Image from freepnglogos.com"><img src="https://blog.hubspot.com/hubfs/26%20Animated%20Logos%20to%20Inspire%20Your%20Own-11.gif" width="10%" alt="Google logo png transparent background " /></a>
+<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg" alt="go" width="11%"/> </a> 
+<a href="mailto:joinforjoshi@gmail.com" title="Image from freepnglogos.com"><img src="https://blog.hubspot.com/hubfs/26%20Animated%20Logos%20to%20Inspire%20Your%20Own-11.gif" width="25%" alt="Google logo png transparent background " /></a>
+
+--------------------------------------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------------------------------
 
