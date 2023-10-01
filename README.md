@@ -89,46 +89,33 @@ I'm a night 🦉
 
 <h3 align="left"> <a href="https://cdn.dribbble.com/users/954572/screenshots/17357871/media/af709d784f14cb4cff42471e1afadd23.gif" title="Image from freepnglogos.com"><img src="https://user-images.githubusercontent.com/70204047/129378227-9fe9017a-98d6-4270-bec3-8a0310fc6c4b.gif" width="50" alt="like us on facebook transparent png logo" /></a>  Languages and Tools: </h3>
 
+--------------------------------------------------------------------------------------------------------------------
 <p align="left"> 
 <div align="center">
    <div style="display: flex; align-items: flex-start;">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="70"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="70"/> </a> 
- <a href="https://www.java.com" title="Image from freepnglogos.com"><img src="https://i.stack.imgur.com/KSnus.gif" width="40" alt="coffee logo design creative idea logo elements" /></a>
-<a href="https://www.w3schools.com/html/" title="Image from freepnglogos.com"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="75" alt="html5 logo, image logo html" /></a> 
-<a href="https://www.w3schools.com/css/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" width="70" alt="html5 logo, css logo png transparent svg vector bie supply" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" width="50" alt="JS logo png" /></a>
-<a href="https://www.linux.org/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" width="70" alt="difference between linux and window operating system" /></a>
-<a href="https://www.mysql.com/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="50" alt="logo mysql, mysql logo png images are download crazypng" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/gltER5OeK9wAAAAi/qws.gif" alt="Qws Sticker - Qws Stickers" width="50" height="45"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img class="TutorialCard_cardIcon__2Eygb" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" width="60" height="50"/> </a> 
-<a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" alt="go" width="60" height="50"/> </a> 
-<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg" alt="go" width="60" height="50"/> </a> 
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://ubuntu.com/wp-content/uploads/ff30/logo_thumbnailYT.png" alt="go" width="90" height="50"/> </a>
-<a href="mailto:joinforjoshi@gmail.com" title="Image from freepnglogos.com"><img src="https://blog.hubspot.com/hubfs/26%20Animated%20Logos%20to%20Inspire%20Your%20Own-11.gif" width="90" height="50" alt="Google logo png transparent background " /></a>
-..............------------------...............
-<a href="https://www.kali.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/43e4fa2cc881110814fc0261b0cdeb7232e630e0914361f92936b2df3e2a377f/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d71587647426e7652684c4d2f586433576f344e425759492f41414141414141415137342f305a794d596a47307530774953646a5f524b5679595731612d786b356e366d4667434e63424741735948512f73313630302f6b616c692d707265766965772d626f6f742e676966" alt="go" width="90" height="70"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Image from freepnglogos.com"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JS logo png" /></a>
-<a href="https://www.python.org" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60" alt="512x512 transparent logo, github logo" /></a>
-<a href="https://react.dev" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60" alt="512x512 transparent logo, github logo" /></a>
-<a href="https://vuejs.org" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="60" alt="512x512 transparent logo, github logo" /></a>
-<a href="https://nodejs.org" title="Image from freepnglogos.com"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="60" alt="512x512 transparent logo, github logo" /></a>
-<a href="https://github.com/hemantjoshi2535" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60" alt="512x512 transparent logo, github logo" /></a>
-<a href="https://code.visualstudio.com" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" alt="512x512 transparent logo, github logo" /></a>
-    <a href="https://code.visualstudio.com" title="Image from freepnglogos.com"><img src="https://blog.hubspot.com/hs-fs/hubfs/26%20Animated%20Logos%20to%20Inspire%20Your%20Own-21.gif?width=899&name=26%20Animated%20Logos%20to%20Inspire%20Your%20Own-21.gif" width="80" height="50" alt="512x512 transparent logo, github logo" /></a>
 
-..............------------------...............
+<a href="https://www.w3schools.com/html/" title="Image from freepnglogos.com"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="5%" alt="html5 logo, image logo html" /></a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="4%"/> </a> 
+<a href="https://github.com/iam-joshi" title="Image from freepnglogos.com"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="5%" alt="512x512 transparent logo, github logo" /></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img class="TutorialCard_cardIcon__2Eygb" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="4%"/> </a> 
 
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
+
+--------------------------------------------------------------------------------------------------------------------
+<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg" alt="go" width="6%"/> </a> 
+<a href="mailto:joinforjoshi@gmail.com" title="Image from freepnglogos.com"><img src="https://blog.hubspot.com/hubfs/26%20Animated%20Logos%20to%20Inspire%20Your%20Own-11.gif" width="10%" alt="Google logo png transparent background " /></a>
+
+--------------------------------------------------------------------------------------------------------------------
+
 </div>
 
-..............------------------...............
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-joshi&show_icons=true&locale=en&layout=compact" alt="Hemant Kumar Joshi" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-joshi&show_icons=true&locale=en" alt="Hemant Kumar Joshi" /></p>
+<div>
  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-joshi&show_icons=true&locale=en&layout=compact" width="45%" alt="Hemant Kumar Joshi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iam-joshi&show_icons=true&locale=en" width="45%" alt="Hemant Kumar Joshi" /></p>
+
+</div>
 
 <a href="https://holopin.io/@iamjoshi">
   <img src="https://holopin.me/iamjoshi" alt="@iamjoshi Hemant Joshi Holopin board" />
