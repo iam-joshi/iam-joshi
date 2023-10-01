@@ -1,7 +1,7 @@
 <h1 align="center">Hii... Viewers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">,</h1> 
 
 <h1 align="center">Hi...👋, I'm Hemant Kumar Joshi</h1>
-<div><img src="https://user-images.githubusercontent.com/100144307/271809935-f1b44ee6-12d8-4727-b456-ef3beb7bd300.png" width="100%"><img src="https://user-images.githubusercontent.com/100144307/271809945-0646bd50-17ba-48b2-9163-071c248cc3e1.gif" width="100%">
+<div><img src="https://user-images.githubusercontent.com/100144307/271809935-f1b44ee6-12d8-4727-b456-ef3beb7bd300.png" width="50%"><img src="https://user-images.githubusercontent.com/100144307/271809945-0646bd50-17ba-48b2-9163-071c248cc3e1.gif" width="50%">
 <!---
 ![IMG_20230922_094905](https://github.com/iam-joshi/iam-joshi/assets/100144307/f1b44ee6-12d8-4727-b456-ef3beb7bd300)
 ![signature-16ED3C82FE1A930B0D7413467FCE790C2](https://github.com/iam-joshi/iam-joshi/assets/100144307/0646bd50-17ba-48b2-9163-071c248cc3e1)
