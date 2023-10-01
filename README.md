@@ -104,7 +104,7 @@ I'm a night 🦉
 
 --------------------------------------------------------------------------------------------------------------------
 <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg" alt="go" width="11%"/> </a> 
-<a href="mailto:joinforjoshi@gmail.com" title="Image from freepnglogos.com"><img src="https://cdn.dribbble.com/users/1717214/screenshots/4124610/g-logo.gif" width="10%" alt="Google logo png transparent background " /></a>
+<a href="mailto:joinforjoshi@gmail.com" title="Image from freepnglogos.com"><img src="https://cdn.dribbble.com/users/1717214/screenshots/4124610/g-logo.gif" width="12%" alt="Google logo png transparent background " /></a>
 
 --------------------------------------------------------------------------------------------------------------------
 
