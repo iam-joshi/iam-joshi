@@ -13,7 +13,7 @@
 <img align="center" alt="Coding" width="900" height="207" src="https://media.giphy.com/media/PlkYffUSFZxxlQl9so/giphy.gif">
 <img align="right" alt="hemantjoshi078f8e7afd344567a50456680de56b39" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
-### hemantjoshi2535 👋
+### iam-joshi 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantjoshi2535&label=Profile%20views&color=0e75b6&style=flat" alt="hemantjoshi" /> </p>
 
